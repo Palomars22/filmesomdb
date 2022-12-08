@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+font-family: monospace;
+}
+
+body{ 
+
+ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+
+ height: 200vh;
+
+
+ background-size: cover;
+  color: rgb(15, 9, 9);
+  font-weight: bold;
+}
